@@ -1,0 +1,15 @@
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\bin\Debug\net6.0\FinanceManager.Application.deps.json
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\bin\Debug\net6.0\FinanceManager.Application.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\bin\Debug\net6.0\FinanceManager.Application.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\FinanceManager.Application.csproj.AssemblyReference.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\FinanceManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\FinanceManager.Application.AssemblyInfoInputs.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\FinanceManager.Application.AssemblyInfo.cs
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\FinanceManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\FinanceManager.Application.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\refint\FinanceManager.Application.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\FinanceManager.Application.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\ref\FinanceManager.Application.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\bin\Debug\net6.0\FinanceManager.Domain.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\bin\Debug\net6.0\FinanceManager.Domain.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Application\obj\Debug\net6.0\FinanceManager.Application.csproj.CopyComplete

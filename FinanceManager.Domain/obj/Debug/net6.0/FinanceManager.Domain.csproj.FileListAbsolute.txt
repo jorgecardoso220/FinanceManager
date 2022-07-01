@@ -1,0 +1,12 @@
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\bin\Debug\net6.0\FinanceManager.Domain.deps.json
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\bin\Debug\net6.0\FinanceManager.Domain.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\bin\Debug\net6.0\FinanceManager.Domain.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\FinanceManager.Domain.csproj.AssemblyReference.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\FinanceManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\FinanceManager.Domain.AssemblyInfoInputs.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\FinanceManager.Domain.AssemblyInfo.cs
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\FinanceManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\FinanceManager.Domain.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\refint\FinanceManager.Domain.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\FinanceManager.Domain.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Domain\obj\Debug\net6.0\ref\FinanceManager.Domain.dll

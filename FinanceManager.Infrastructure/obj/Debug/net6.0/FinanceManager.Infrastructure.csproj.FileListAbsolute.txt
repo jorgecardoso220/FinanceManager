@@ -1,0 +1,17 @@
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\bin\Debug\net6.0\FinanceManager.Infrastructure.deps.json
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\bin\Debug\net6.0\FinanceManager.Infrastructure.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\bin\Debug\net6.0\FinanceManager.Infrastructure.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\FinanceManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\FinanceManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\FinanceManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\FinanceManager.Infrastructure.AssemblyInfo.cs
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\FinanceManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\FinanceManager.Infrastructure.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\refint\FinanceManager.Infrastructure.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\FinanceManager.Infrastructure.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\ref\FinanceManager.Infrastructure.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\bin\Debug\net6.0\FinanceManager.Application.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\bin\Debug\net6.0\FinanceManager.Domain.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\bin\Debug\net6.0\FinanceManager.Application.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\bin\Debug\net6.0\FinanceManager.Domain.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Infrastructure\obj\Debug\net6.0\FinanceManager.Infrastructure.csproj.CopyComplete

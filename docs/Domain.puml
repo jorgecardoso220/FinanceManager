@@ -1,0 +1,73 @@
+@startuml Domain Model
+
+left to right direction
+
+skinparam classAttributeIconSize 10
+skinparam minClassWidth 150
+skinparam classHeaderBackgroundColor LightGray
+skinparam classBackgroundColor WhiteSmoke
+skinparam classBorderColor DarkSlateGray
+skinparam classFontColor automatic
+skinparam classFontSize 15
+skinparam classFontName Corbel
+skinparam nodesep 70
+skinparam ranksep 70
+
+class User
+{
+	-name
+	-password
+}
+
+class HouseHold 
+{
+	-description
+}
+
+class BankAccount
+{
+	-name
+	-description
+}
+
+class Bank
+{
+	-description
+}
+
+class BankingMovement
+{
+	-description
+	-amount
+	-correctedAmount
+	-balance
+	-type
+	-postingDate
+	-date
+	-category
+	-subCategory
+}
+
+class Category
+{
+	-description
+}
+
+class SubCategory
+{
+	-description
+}
+
+
+HouseHold "1" - "1..*" User : has >
+
+User "1..*" - "1..*" BankAccount : has >
+
+BankAccount "1..*" - "1" Bank : belongs >
+BankAccount "1" - "1..*" BankingMovement : has >
+
+BankingMovement "1..*" - "1" Category : has >
+
+Category "1" - "1" SubCategory : has >
+
+@enduml

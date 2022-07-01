@@ -1,0 +1,12 @@
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\bin\Debug\net6.0\FinanceManager.Contracts.deps.json
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\bin\Debug\net6.0\FinanceManager.Contracts.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\bin\Debug\net6.0\FinanceManager.Contracts.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\FinanceManager.Contracts.csproj.AssemblyReference.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\FinanceManager.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\FinanceManager.Contracts.AssemblyInfoInputs.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\FinanceManager.Contracts.AssemblyInfo.cs
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\FinanceManager.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\FinanceManager.Contracts.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\refint\FinanceManager.Contracts.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\FinanceManager.Contracts.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Contracts\obj\Debug\net6.0\ref\FinanceManager.Contracts.dll

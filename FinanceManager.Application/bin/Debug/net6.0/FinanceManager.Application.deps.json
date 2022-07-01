@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FinanceManager.Application/1.0.0": {
+        "dependencies": {
+          "FinanceManager.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FinanceManager.Application.dll": {}
+        }
+      },
+      "FinanceManager.Domain/1.0.0": {
+        "runtime": {
+          "FinanceManager.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinanceManager.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinanceManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
