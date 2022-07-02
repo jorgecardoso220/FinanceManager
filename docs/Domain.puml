@@ -15,7 +15,10 @@ skinparam ranksep 70
 
 class User
 {
-	-name
+	-id
+	-firstName
+	-lastName
+	-email
 	-password
 }
 

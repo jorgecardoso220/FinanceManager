@@ -5,16 +5,11 @@ C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.A
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\FinanceManager.Api.runtimeconfig.json
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\FinanceManager.Api.dll
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\FinanceManager.Api.pdb
-C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\FinanceManager.Api.csproj.AssemblyReference.cache
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\FinanceManager.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\FinanceManager.Api.AssemblyInfoInputs.cache
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\FinanceManager.Api.AssemblyInfo.cs
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\FinanceManager.Api.csproj.CoreCompileInputs.cache
-C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\FinanceManager.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\FinanceManager.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\obj\Debug\net6.0\staticwebassets.development.json
@@ -33,3 +28,9 @@ C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.A
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\FinanceManager.Application.pdb
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\FinanceManager.Infrastructure.pdb
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\FinanceManager.Domain.pdb
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
