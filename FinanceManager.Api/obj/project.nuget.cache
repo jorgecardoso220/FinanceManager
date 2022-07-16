@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0bSvCFxZRShRCUL7oNOOnOxfrblBPsrTbyyimRsv+nx5bbt/HW7Loi/QcH1CO2LTsUlszLy5Tywmfj3dISC5QQ==",
+  "dgSpecHash": "35qLao5b9VxhrUfOh4U//4Lau+/z6bGM/nySUaw2ifoeuegj8tiVJ0dE0nWMvgomBTGPL/J5gM8kpoM0qh3fLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jorge\\O meu disco\\Documentos\\2-Projetos\\FinanceManager\\FinanceManager.Api\\FinanceManager.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\erroror\\0.1.0\\erroror.0.1.0.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

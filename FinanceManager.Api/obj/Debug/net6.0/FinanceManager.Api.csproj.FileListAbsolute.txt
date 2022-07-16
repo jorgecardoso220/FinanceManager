@@ -34,3 +34,4 @@ C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.A
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\jorge\O meu disco\Documentos\2-Projetos\FinanceManager\FinanceManager.Api\bin\Debug\net6.0\ErrorOr.dll

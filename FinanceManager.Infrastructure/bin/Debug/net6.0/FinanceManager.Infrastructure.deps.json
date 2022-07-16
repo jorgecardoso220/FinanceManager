@@ -17,6 +17,14 @@
           "FinanceManager.Infrastructure.dll": {}
         }
       },
+      "ErrorOr/0.1.0": {
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "assemblyVersion": "0.1.0.0",
+            "fileVersion": "0.1.0.0"
+          }
+        }
+      },
       "Microsoft.CSharp/4.5.0": {},
       "Microsoft.Extensions.Configuration/6.0.1": {
         "dependencies": {
@@ -157,6 +165,7 @@
       "System.Security.Cryptography.Cng/4.5.0": {},
       "FinanceManager.Application/1.0.0": {
         "dependencies": {
+          "ErrorOr": "0.1.0",
           "FinanceManager.Domain": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
         },
@@ -165,6 +174,9 @@
         }
       },
       "FinanceManager.Domain/1.0.0": {
+        "dependencies": {
+          "ErrorOr": "0.1.0"
+        },
         "runtime": {
           "FinanceManager.Domain.dll": {}
         }
@@ -176,6 +188,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "ErrorOr/0.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-adIVrA1Ixck5oZ79ZKB5f7k+aVlg4AB47nNHY14+qI8d+4//sTe0Dvbp8AIJEz/94OimmWjdGfei67q9UZPGig==",
+      "path": "erroror/0.1.0",
+      "hashPath": "erroror.0.1.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",

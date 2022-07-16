@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ahe63QEKlwyGFOnmXPqu/QuX4Tr/miRVtnNPl6GJ2M0fBXxTuss3eyxKqiTbpwCWu84l7/NhTuwChjUrFIKSeA==",
+  "dgSpecHash": "qV7GT6O9oXpDh6lhtBlH6063a4wbcPdHjvLeChwMiJwCq58DO6BUhEV5iG+REgzAOAckC/mNWtTfF/FFLczWjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\jorge\\O meu disco\\Documentos\\2-Projetos\\FinanceManager\\FinanceManager.Domain\\FinanceManager.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\erroror\\0.1.0\\erroror.0.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

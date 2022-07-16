@@ -1,12 +1,14 @@
+using ErrorOr;
 using FinanceManager.Application.Services.Authentication;
 using FinanceManager.Contracts.Authentication;
+using FinanceManager.Domain.Common.Errors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FinanceManager.Api.Controllers;
 
-[ApiController]
+
 [Route("auth")]
-public class AuthenticationController : ControllerBase
+public class AuthenticationController : ApiController
 {
 	private readonly IAuthenticationService _authenticationService;
 
@@ -18,21 +20,16 @@ public class AuthenticationController : ControllerBase
 	[HttpPost("register")]
 	public IActionResult Register(RegisterRequest request)
 	{
-		var authResult = _authenticationService.Register(
+		ErrorOr<AuthenticationResult> authResult = _authenticationService.Register(
 			request.FirstName,
 			request.LastName,
 			request.Email,
 			request.Password);
 
-		var response = new AuthenticationResponse(
-			authResult.user.Id,
-			authResult.user.FirstName,
-			authResult.user.LastName,
-			authResult.user.Email,
-			authResult.Token
+		return authResult.Match(
+			authResult => Ok(MapAuthResult(authResult)),
+			errors => Problem(errors)
 		);
-
-		return Ok(response);
 	}
 
 	[HttpPost("login")]
@@ -42,14 +39,25 @@ public class AuthenticationController : ControllerBase
 			request.Email,
 			request.Password);
 
-		var response = new AuthenticationResponse(
-			authResult.user.Id,
-			authResult.user.FirstName,
-			authResult.user.LastName,
-			authResult.user.Email,
-			authResult.Token
+		if (authResult.IsError && authResult.FirstError == Errors.Authentication.InvalidCredentials)
+		{
+			return Problem(
+				statusCode: StatusCodes.Status401Unauthorized,
+				title: authResult.FirstError.Description);
+		}
+		return authResult.Match(
+			authResult => Ok(MapAuthResult(authResult)),
+			errors => Problem(errors)
 		);
-
-		return Ok(response);
+	}
+	private static AuthenticationResponse MapAuthResult(AuthenticationResult authResult)
+	{
+		return new AuthenticationResponse(
+					authResult.user.Id,
+					authResult.user.FirstName,
+					authResult.user.LastName,
+					authResult.user.Email,
+					authResult.Token
+				);
 	}
 }
